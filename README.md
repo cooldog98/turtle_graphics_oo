@@ -16,4 +16,3 @@ condition if choice stay between 5 and 8 code will run with def choice_n if choi
 Then, out of class use if-else agine with condition if choice between 1 and 8 it will loop 20 loop or draw 20 time but,
 if choice is 9 will be loop in loop because art 9 have popup and not popup. In the end call turtle.done() 
 to final turtle.
-
